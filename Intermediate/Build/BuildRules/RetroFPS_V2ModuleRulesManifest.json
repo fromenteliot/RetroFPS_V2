@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Dev\\Unreal\\RetroFPS\\RetroFPS_V2\\Source\\RetroFPS_V2\\RetroFPS_V2.Build.cs",
-		"C:\\Dev\\Unreal\\RetroFPS\\RetroFPS_V2\\Source\\RetroFPS_V2.Target.cs",
-		"C:\\Dev\\Unreal\\RetroFPS\\RetroFPS_V2\\Source\\RetroFPS_V2Editor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
